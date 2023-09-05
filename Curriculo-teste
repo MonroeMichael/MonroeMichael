@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-      <h1>Currículo de João Vítor S. da Silva </h1>
+      <h1>Currículo de [Nome]</h1>
     </header>
     <main>
       <section class="dados-pessoais">
@@ -48,4 +48,3 @@
     </footer>
   </body>
 </html>
-
