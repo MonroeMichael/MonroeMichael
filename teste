@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Forrest 2023</title> 
+    <link rel="stylesheet" href="land page.css"> 
+</head>
+
+<body>
+
+    <header> 
+        <h1>Tech Forrest 2023</h1>
+        <p>O Evento tecnologico mais aguardado do ano!</p>
+    </header>
+
+    <section id="about"> 
+        <h2>Sobre o que é a Tech Forrest?</h2>
+
+        <p>A tech forrest é um evento de tecnologia altamente conhecido, além de potencializado, sendo onde grande parte das maiores mentes.</p>
+        <p>do futuro se encontram para seus projetos e planos, além disso,  é amplamente conhecida e acalamada em papel global!</p>
+    </section>
+
+    <section id="subjects"> 
+        <h2>Convidados/Palestrantes Especiais</h2>
+        <ul> 
+            <li>Arnold Santiago, um grande programador de robos e inteligencia artificial</li> 
+            <li>Neil Raymond, desenvolvedor do primeiro nucleo de anti-materia estara lá</li>
+            <li>Carlos Alberto, conhecido por criar a I.A mais avançada da historia</li>
+            <li>Irman de Andrade, a fisica mais jovens a conseguir 21 premios nobeis</li>
+        </ul>
+    </section>
+
+    <section id="Palestras"> 
+        <h2>Palestra: Atomos e a infinidade da energia escura com Carl Reigan, XX/XX/2023</h2>
+        <h2>Palestra: Reprogramação em Area, como a internet pode causar o fim do mundo, XX/XX/2023</h2>
+        <h2>Palestra: O poder do infinito e como ele altera nossa realidade, XX/XX/2023</h2>
+        <h2>Palestra: I.A, No futuro maquinas poderão amar? XX/XX/2023</h2>
+
+        <p>Email: professor@email.com</p>
+        <p>Telefone: (00) 9876-5432</p>
+    </section>
+
+    <footer> 
+        <p>&copy; 2023 Aulas Particulares. Todos os Direitos Reservados.</p>
+    </footer>
+
+</body>
+
+</html>
