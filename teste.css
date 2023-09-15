@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #312e2e;
+    color: #117f9b; 
+}
+
+header {
+    background-color: #4d4d5562; 
+    color: #117f9b; 
+    padding: 40px 0;
+    text-align: center;
+}
+
+
+#speakers {
+    padding: 20px;
+    background-color: #ffffff; /* Branco */
+    text-align: center;
+}
+
+#speakers img {
+    max-width: 80%;
+    margin: 20px 0;
+}
+
+/* Estilos para a programação do evento */
+
+#agenda {
+    padding: 20px;
+    background-color: #e8f0fe; /* Azul muito claro */
+    text-align: center;
+}
+
+#agenda ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#agenda li {
+    padding: 10px;
+    font-weight: bold;
+}
+
+/* Estilos para a seção de inscrição */
+
+#registration {
+    padding: 20px;
+    background-color: #ffffff; /* Branco */
+    text-align: center;
+}
+
+#registration a {
+    color: #1a73e8; /* Azul vibrante para links */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Estilos para a seção de informações adicionais */
+
+#info {
+    padding: 20px;
+    background-color: #e8f0fe; /* Azul muito claro */
+    text-align: center;
+}
